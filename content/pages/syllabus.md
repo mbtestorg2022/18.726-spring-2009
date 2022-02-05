@@ -67,31 +67,252 @@ This class is not particularly intended for undergraduates, and is not appropria
 Calendar
 --------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Introduction and overview |
-| 2 | Basics of category theory |
-| 3-5 | Sheaves |
-| 5 | Abelian sheaves |
-| 6-7 | Schemes |
-| 7-9 | Morphisms of schemes |
-| 9-10 | Sheaves of modules |
-| 11-12 | More properties of morphisms |
-| 12-13 | Projective morphisms, part 1 |
-| 13-14 | Projective morphisms, part 2 |
-| 15 | More properties of schemes |
-| 16-17 | Flat morphisms and descent |
-| 17-18 | Differentials |
-| 18-19 | Divisors |
-| 19-20 | Divisors on curves |
-| 21-23 | Homological algebra |
-| 24-26 | Sheaf cohomology |
-| 27 | Cohomology of quasicoherent sheaves |
-| 27-29 | Cohomology of projective spaces |
-| 29-30 | Hilbert polynomials |
-| 30-33 | GAGA |
-| 33-34 | Serre duality for projective space |
-| 35-36 | Dualizing sheaves and Riemann-Roch |
-| 36-37 | Cohen-Macaulay schemes and Serre duality |
-| 38 | Higher Riemann-Roch |
-| 39 | Étale cohomology
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and overview
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Basics of category theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-5
+{{< tdclose >}}
+{{< tdopen >}}
+Sheaves
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Abelian sheaves
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+Schemes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7-9
+{{< tdclose >}}
+{{< tdopen >}}
+Morphisms of schemes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-10
+{{< tdclose >}}
+{{< tdopen >}}
+Sheaves of modules
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+More properties of morphisms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+Projective morphisms, part 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+Projective morphisms, part 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+More properties of schemes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16-17
+{{< tdclose >}}
+{{< tdopen >}}
+Flat morphisms and descent
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-18
+{{< tdclose >}}
+{{< tdopen >}}
+Differentials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-19
+{{< tdclose >}}
+{{< tdopen >}}
+Divisors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-20
+{{< tdclose >}}
+{{< tdopen >}}
+Divisors on curves
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-23
+{{< tdclose >}}
+{{< tdopen >}}
+Homological algebra
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24-26
+{{< tdclose >}}
+{{< tdopen >}}
+Sheaf cohomology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Cohomology of quasicoherent sheaves
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27-29
+{{< tdclose >}}
+{{< tdopen >}}
+Cohomology of projective spaces
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29-30
+{{< tdclose >}}
+{{< tdopen >}}
+Hilbert polynomials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30-33
+{{< tdclose >}}
+{{< tdopen >}}
+GAGA
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33-34
+{{< tdclose >}}
+{{< tdopen >}}
+Serre duality for projective space
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35-36
+{{< tdclose >}}
+{{< tdopen >}}
+Dualizing sheaves and Riemann-Roch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36-37
+{{< tdclose >}}
+{{< tdopen >}}
+Cohen-Macaulay schemes and Serre duality
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Higher Riemann-Roch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Étale cohomology
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
