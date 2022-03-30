@@ -4,6 +4,7 @@ description: Lecture notes on Weil divisors, Cartier divisors, the Picard group,
   Linear systems.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-726-algebraic-geometry-spring-2009/8a4942ee8bc670eb7eb6ab70b4c51e91_MIT18_726s09_lec14_divisors.pdf
 file_type: application/pdf
+parent_uid: 48634407-a57b-9413-2aef-86e097164ee5
 resourcetype: Document
 title: Divisors, linear systems, and projective embeddings
 uid: 8a4942ee-8bc6-70eb-7eb6-ab70b4c51e91

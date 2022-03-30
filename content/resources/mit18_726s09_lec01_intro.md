@@ -3,6 +3,7 @@ content_type: resource
 description: Introductory lecture notes on algebraic geometry, sheaves, and functors.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-726-algebraic-geometry-spring-2009/f784b273adad4690f82c017919d3c841_MIT18_726s09_lec01_intro.pdf
 file_type: application/pdf
+parent_uid: 48634407-a57b-9413-2aef-86e097164ee5
 resourcetype: Document
 title: Introduction
 uid: f784b273-adad-4690-f82c-017919d3c841

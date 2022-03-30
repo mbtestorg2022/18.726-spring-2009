@@ -5,6 +5,7 @@ description: "Lecture notes on a classic theorem of algebraic geometry, Serre\u2
   \ numbers and complex analytic geometry."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-726-algebraic-geometry-spring-2009/1329d3923b9f2d55ec7a9ec8e9cb63e9_MIT18_726s09_lec22_gaga.pdf
 file_type: application/pdf
+parent_uid: 48634407-a57b-9413-2aef-86e097164ee5
 resourcetype: Document
 title: GAGA
 uid: 1329d392-3b9f-2d55-ec7a-9ec8e9cb63e9

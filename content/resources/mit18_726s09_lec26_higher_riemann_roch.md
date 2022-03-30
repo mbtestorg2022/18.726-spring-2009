@@ -5,6 +5,7 @@ description: "Lecture notes on higher-dimensional versions of the Riemann-Roch t
   \ and the Grothendieck-Riemann-Roch theorem."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-726-algebraic-geometry-spring-2009/04b88b86e6364cac8c3f9d20d984dbc6_MIT18_726s09_lec26_higher_riemann_roch.pdf
 file_type: application/pdf
+parent_uid: 48634407-a57b-9413-2aef-86e097164ee5
 resourcetype: Document
 title: Higher Riemann-Roch
 uid: 04b88b86-e636-4cac-8c3f-9d20d984dbc6
